@@ -26,3 +26,14 @@ The purpose of the dashboard designed is to provide a comprehensive and visually
    5. **Enable Data Exploration**: Allow users to explore the data by drilling down into specific details, filtering results, and gaining deeper insights into different aspects of the business or project.
     
    In summary, the dashboard is designed to present complex data in a user-friendly format, driving understanding, insights, and actionable decisions for stakeholders and analysts.  
+
+
+## SOFTWARE USED:
+
+This project utilizes the following software tools:
+ 1. MYSQL
+ 2. EXCEL
+ 3. POWERBI
+
+## PREVIEW
+![Dashboard preview](https://github.com/Navneet602/Pizza-Sales-Dashboard/assets/112957129/88fa8684-801e-48cf-8b4f-620e3d8c506a)
