@@ -37,3 +37,6 @@ This project utilizes the following software tools:
 
 ## PREVIEW
 ![Dashboard preview](https://github.com/Navneet602/Pizza-Sales-Dashboard/assets/112957129/88fa8684-801e-48cf-8b4f-620e3d8c506a)
+
+![Dashboard Preview 2](https://github.com/Navneet602/Pizza-Sales-Dashboard/assets/112957129/1d9b870b-6e2c-4dfb-9da0-eb51a04df5d2)
+
